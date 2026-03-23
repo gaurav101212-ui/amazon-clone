@@ -32,7 +32,7 @@ npm start
 
 ## 🌐 Live Demo
 
-(Will be added after deployment)
+https://amazon-clone-18p2rw8p8-gaurav101212-uis-projects.vercel.app/
 
 ---
 

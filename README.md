@@ -38,7 +38,7 @@ npm start
 
 ## 📸 Screenshots
 
-(Will be added soon)
+![Home Page](./Homepage.png)
 
 ---
 

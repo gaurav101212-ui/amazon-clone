@@ -21,7 +21,7 @@ function Cart(){
                 alignItems: "center",
                 gap: "20px"
             }}>
-                <img src={item.thumbnail} width="80"/>
+                <img src={item.thumbnail} width="80" alt="product"/>
                 <div>
                 <h3>{item.title}</h3>
                 <p>{item.price}</p>

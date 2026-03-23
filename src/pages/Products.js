@@ -28,7 +28,7 @@ function Products() {
         {/* Image */}
         <div className="col-md-5">
           <img
-            src={product.thumbnail}
+            src={product.thumbnail} alt="product"
             className="img-fluid"
             style={{ height: "400px", objectFit: "contain" }}
           />

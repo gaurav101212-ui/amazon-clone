@@ -42,6 +42,11 @@ npm start
 
 ---
 
+## 🔑 Login
+
+Email: admin@gmail.com  
+Password: 1234
+
 ## 👨‍💻 Author
 
 **Gaurav Bhardwaj**
